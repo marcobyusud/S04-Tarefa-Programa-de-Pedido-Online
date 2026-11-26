@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Executar PedidosOnline",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build PedidosOnline",
+      "program": "${workspaceFolder}/bin/Debug/net10.0/PedidosOnline.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}

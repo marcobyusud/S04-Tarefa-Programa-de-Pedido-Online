@@ -1,0 +1,14 @@
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\bin\Debug\net10.0\PedidosOnline.exe
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\bin\Debug\net10.0\PedidosOnline.deps.json
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\bin\Debug\net10.0\PedidosOnline.runtimeconfig.json
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\bin\Debug\net10.0\PedidosOnline.dll
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\bin\Debug\net10.0\PedidosOnline.pdb
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\PedidosOnline.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\PedidosOnline.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\PedidosOnline.AssemblyInfo.cs
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\PedidosOnline.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\PedidosOnline.dll
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\refint\PedidosOnline.dll
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\PedidosOnline.pdb
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\PedidosOnline.genruntimeconfig.cache
+c:\Users\Usuario\Desktop\S04 Tarefa Programa de Pedido Online\obj\Debug\net10.0\ref\PedidosOnline.dll
